@@ -1,4 +1,4 @@
 Prove 
 
 
-[tutorial] (https://database.guide/)
+[tutorial](https://database.guide/)  permbledhje tutoriali sql
